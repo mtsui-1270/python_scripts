@@ -2,3 +2,4 @@
 :smiley:
 :grin:
 :snake:
+:desktop:

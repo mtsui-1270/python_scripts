@@ -2,4 +2,4 @@
 :smiley:
 :grin:
 :snake:
-:desktop:
+⌨️
